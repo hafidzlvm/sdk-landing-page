@@ -1,7 +1,8 @@
 services:
   sdk-landing-page:
+    image: ghcr.io/hafidzlvm/sdk-landing-page:latest
     build:
-      context: /stack/sdk/landing-page
+      context: .
       dockerfile: ./Dockerfile
     container_name: sdk-landing-page
     restart: always
