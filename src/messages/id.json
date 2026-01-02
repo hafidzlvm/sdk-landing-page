@@ -1,0 +1,151 @@
+{
+  "Navbar": {
+    "items": {
+      "Services": "Layanan",
+      "About": "Tentang",
+      "Portfolio": "Portofolio",
+      "Testimonials": "Testimoni",
+      "Contact": "Kontak"
+    },
+    "cta": "Hubungi Kami"
+  },
+  "Hero": {
+    "title": "Merancang Masa Depan <highlight>Keunggulan Digital</highlight>",
+    "description": "PT Solusi Digital Khatulistiwa adalah rumah perangkat lunak yang dinamis dan berkembang. Kami membawa semangat baru dengan inovasi mutakhir untuk memberikan solusi digital yang skalabel, aman, dan memukau.",
+    "explore": "Jelajahi Layanan",
+    "viewPortfolio": "Lihat Portofolio",
+    "stats": {
+      "years": "Komitmen Kualitas",
+      "projects": "Proyek Selesai",
+      "uptime": "Jaminan Uptime",
+      "support": "Dukungan Global"
+    }
+  },
+  "Home": {
+    "coreCapabilities": "Kapabilitas Inti",
+    "engineeringExcellence": "Keunggulan Rekayasa Terkirim",
+    "engineeringDesc": "Kami tidak hanya menulis kode; kami merancang solusi. Rangkaian layanan komprehensif kami mencakup setiap aspek siklus hidup digital, memastikan bisnis Anda tetap berada di depan kurva.",
+    "philosophy": "Filosofi Kami",
+    "innovationAtScale": "Inovasi Skala Besar",
+    "philosophyDesc": "Saksikan bagaimana tim global kami mengeksekusi proyek kompleks dengan presisi bedah. Kami memadukan seni kreatif dengan ketelitian rekayasa.",
+    "clientSuccess": "Kesuksesan Klien",
+    "trustedBy": "Dipercaya oleh Fortune 500",
+    "clientDesc": "Rekam jejak kami berbicara sendiri. Kami telah bermitra dengan organisasi terkemuka dunia untuk mendorong transformasi digital.",
+    "support": "Dukungan",
+    "faq": "Pertanyaan yang Sering Diajukan",
+    "faqDesc": "Segala hal yang perlu Anda ketahui tentang bermitra dengan rumah perangkat lunak kelas dunia."
+  },
+  "Benefits": {
+    "one": {
+      "title": "Solusi Digital Premium",
+      "desc": "Di PT Solusi Digital Khatulistiwa, kami menciptakan pengalaman digital kelas dunia. Dari situs web berkinerja tinggi hingga aplikasi seluler yang skalabel.",
+      "bullets": {
+        "0": {
+          "title": "Rekayasa Perangkat Lunak Kustom",
+          "desc": "Arsitektur solusi yang dibuat khusus yang dirancang untuk menangani jutaan pengguna dengan latensi sub-detik."
+        },
+        "1": {
+          "title": "Pengembangan Aplikasi Seluler",
+          "desc": "Aplikasi seluler Native dan Cross-platform yang memberikan pengalaman pengguna yang intuitif dan lancar di iOS dan Android."
+        },
+        "2": {
+          "title": "Sistem Desain UI/UX",
+          "desc": "Estetika desain pemenang penghargaan yang berfokus pada keterlibatan pengguna, aksesibilitas, dan kecemerlangan visual."
+        }
+      }
+    },
+    "two": {
+      "title": "Mengapa Memilih Tim Elite Kami?",
+      "desc": "Kami bukan hanya pengembang; kami adalah visioner. Sebagai perusahaan baru yang ambisius, kami membawa pendekatan segar dan teknologi terkini ke proyek Anda.",
+      "bullets": {
+        "0": {
+          "title": "Keamanan Tingkat Enterprise",
+          "desc": "Protokol keamanan tingkat bank memastikan data Anda tetap tidak dapat ditembus dan aman."
+        },
+        "1": {
+          "title": "Tumpukan Teknologi Mutakhir",
+          "desc": "Kami menggunakan kerangka kerja terbaru (Next.js, React Native, Rust, Go) untuk memastikan umur panjang dan kinerja."
+        },
+        "2": {
+          "title": "Dukungan Global 24/7",
+          "desc": "Tim global kami memastikan operasi Anda tidak pernah berhenti, dengan pemantauan dan dukungan sepanjang waktu."
+        }
+      }
+    }
+  },
+  "Testimonials": {
+    "one": {
+      "text": "SDK mengirimkan <highlight>platform keuangan yang kompleks</highlight> 3x lebih cepat daripada yang dapat dibayangkan oleh tim internal kami.",
+      "name": "Sarah Steiner",
+      "title": "VP Engineering di Bank Besar"
+    },
+    "two": {
+      "text": "Sistem desain mereka <highlight>merevolusi</highlight> metrik keterlibatan pengguna kami dalam semalam. Benar-benar kelas dunia.",
+      "name": "Dylan Ambrose",
+      "title": "CPO di Tech Unicorn"
+    },
+    "three": {
+      "text": "Infrastruktur paling <highlight>skalabel dan aman</highlight> yang pernah kami bangun. Mereka benar-benar jenius.",
+      "name": "Gabrielle Winn",
+      "title": "CTO di Global Logistics"
+    }
+  },
+  "Faq": {
+    "q1": "Bagaimana Anda memastikan keamanan dan kerahasiaan proyek?",
+    "a1": "Kami mematuhi standar keamanan yang lebih ketat termasuk kepatuhan ISO 27001. Semua proyek dilindungi oleh NDA komprehensif dan protokol enkripsi data tingkat bank.",
+    "q2": "Berapa timeline proyek tipikal Anda untuk solusi enterprise?",
+    "a2": "Metodologi agile kami memungkinkan kami mengirimkan MVP dalam waktu 4-6 minggu, sementara sistem enterprise yang kompleks biasanya dikirimkan dalam 3-6 bulan dengan demo sprint dua mingguan.",
+    "q3": "Apakah Anda menyediakan dukungan dan pemeliharaan pasca-peluncuran?",
+    "a3": "Tentu saja. Kami menawarkan paket dukungan global 24/7 dengan waktu respons terjamin (SLA) untuk memastikan infrastruktur kritis Anda tidak pernah mengalami downtime.",
+    "q4": "Apa teknologi yang menjadi spesialisasi tim Anda?",
+    "a4": "Kami adalah pemimpin industri dalam stack modern termasuk Next.js, React Native, Rust, Go, dan arsitektur Cloud Native (AWS/GCP/Azure). Kami memilih alat terbaik untuk pekerjaan itu."
+  },
+  "Cta": {
+    "title": "Siap membangun masa depan?",
+    "desc": "Mari diskusikan bagaimana kami dapat mengubah bisnis Anda dengan keahlian kami.",
+    "btn": "Hubungi Penjualan"
+  },
+  "Metadata": {
+    "title": "PT Solusi Digital Khatulistiwa - Software House Utama",
+    "description": "Solusi digital elit untuk perusahaan. Aplikasi mobile, pengembangan web, dan arsitektur cloud."
+  },
+  "NotFound": {
+    "title": "Halaman Tidak Ditemukan",
+    "desc": "Maaf, halaman yang Anda cari tidak ada atau telah dipindahkan.",
+    "btn": "Kembali ke Beranda"
+  },
+  "Footer": {
+    "desc": "PT Solusi Digital Khatulistiwa adalah rumah perangkat lunak terkemuka yang didedikasikan untuk memberdayakan perusahaan dengan solusi digital mutakhir. Kami membangun masa depan, hari ini.",
+    "menu": {
+      "Services": "Layanan",
+      "Work": "Karya",
+      "About": "Tentang",
+      "Careers": "Karir",
+      "Contact": "Kontak"
+    },
+    "legal": {
+      "Terms": "Ketentuan Layanan",
+      "Privacy": "Kebijakan Privasi",
+      "SLA": "SLA"
+    },
+    "follow": "Ikuti kami",
+    "copy": "Hak Cipta © {year} PT Solusi Digital Khatulistiwa. Seluruh hak cipta dilindungi undang-undang."
+  },
+  "PopupWidget": {
+    "title": "Bagaimana kami dapat membantu?",
+    "subtitle": "Kami biasanya merespons dalam beberapa jam",
+    "fields": {
+      "name": "Nama Lengkap",
+      "namePlaceholder": "John Doe",
+      "email": "Alamat Email",
+      "emailPlaceholder": "anda@perusahaan.com",
+      "message": "Pesan Anda",
+      "messagePlaceholder": "Pesan Anda"
+    },
+    "submit": "Kirim Pesan",
+    "success": "Pesan terkirim berhasil",
+    "error": "Ups, Terjadi kesalahan!",
+    "back": "Kembali",
+    "powered": "Ditenagai oleh"
+  }
+}

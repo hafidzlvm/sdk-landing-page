@@ -1,0 +1,22 @@
+services:
+  sdk-landing-page:
+    build:
+      context: /stack/sdk/landing-page
+      dockerfile: ./Dockerfile
+    container_name: sdk-landing-page
+    restart: always
+    environment:
+      - NODE_ENV=production
+      - NEXT_TELEMETRY_DISABLED=1
+    healthcheck:
+      test: ["CMD", "bun", "-e", "fetch('http://localhost:3000/api/health').then(r => process.exit(r.ok ? 0 : 1)).catch(() => process.exit(1))"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - solusi-digital-khatulistiwa
+
+networks:
+  solusi-digital-khatulistiwa:
+    external: true

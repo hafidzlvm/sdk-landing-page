@@ -1,0 +1,151 @@
+{
+  "Navbar": {
+    "items": {
+      "Services": "Services",
+      "About": "About",
+      "Portfolio": "Portfolio",
+      "Testimonials": "Testimonials",
+      "Contact": "Contact"
+    },
+    "cta": "Contact Us"
+  },
+  "Hero": {
+    "title": "Architecting the Future of <highlight>Digital Excellence</highlight>",
+    "description": "PT Solusi Digital Khatulistiwa is a dynamic and growing software house. We bring a fresh spirit with cutting-edge innovation to deliver scalable, secure, and stunning digital solutions.",
+    "explore": "Explore Services",
+    "viewPortfolio": "View Portfolio",
+    "stats": {
+      "years": "Quality Commitment",
+      "projects": "Completed Projects",
+      "uptime": "Uptime Guaranteed",
+      "support": "Global Support"
+    }
+  },
+  "Home": {
+    "coreCapabilities": "Core Capabilities",
+    "engineeringExcellence": "Engineering Excellence Delivered",
+    "engineeringDesc": "We do not just write code; we architect solutions. Our comprehensive suite of services covers every aspect of the digital lifecycle, ensuring your business stays ahead of the curve.",
+    "philosophy": "Our Philosophy",
+    "innovationAtScale": "Innovation at Scale",
+    "philosophyDesc": "Watch how our global team executes complex projects with surgical precision. We blend creative artistry with engineering rigor.",
+    "clientSuccess": "Client Success",
+    "trustedBy": "Trusted by Fortune 500s",
+    "clientDesc": "Our track record speaks for itself. We have partnered with the world's leading organizations to drive digital transformation.",
+    "support": "Support",
+    "faq": "Frequently Asked Questions",
+    "faqDesc": "Everything you need to know about partnering with a world-class software house."
+  },
+  "Benefits": {
+    "one": {
+      "title": "Premium Digital Solutions",
+      "desc": "At PT Solusi Digital Khatulistiwa, we craft world-class digital experiences. From high-performance websites to scalable mobile applications, our passionate engineering team delivers nothing but perfection.",
+      "bullets": {
+        "0": {
+          "title": "Custom Software Engineering",
+          "desc": "Tailor-made solutions architecture designed to handle millions of users with sub-second latency."
+        },
+        "1": {
+          "title": "Mobile Application Development",
+          "desc": "Native and Cross-platform mobile apps that provide intuitive and fluid user experiences on iOS and Android."
+        },
+        "2": {
+          "title": "UI/UX Design Systems",
+          "desc": "Award-winning design aesthetics that focus on user engagement, accessibility, and visual brilliance."
+        }
+      }
+    },
+    "two": {
+      "title": "Why Choose Our Elite Team?",
+      "desc": "We are not just developers; we are visionaries. As an ambitious new company, we bring a fresh approach and the latest technology to your project.",
+      "bullets": {
+        "0": {
+          "title": "Enterprise Grade Security",
+          "desc": "Bank-level security protocols ensuring your data remains unbreachable and secure."
+        },
+        "1": {
+          "title": "Cutting-Edge Technology Stack",
+          "desc": "We use the absolute latest frameworks (Next.js, React Native, Rust, Go) to ensure longevity and performance."
+        },
+        "2": {
+          "title": "24/7 Global Support",
+          "desc": "Our global team ensures that your operations never stop, with round-the-clock monitoring and support."
+        }
+      }
+    }
+  },
+  "Testimonials": {
+    "one": {
+      "text": "SDK delivered a <highlight>complex financial platform</highlight> 3x faster than our internal team could have imagined.",
+      "name": "Sarah Steiner",
+      "title": "VP Engineering at Major Bank"
+    },
+    "two": {
+      "text": "Their design systems <highlight>revolutionized</highlight> our user engagement metrics overnight. Truly world-class.",
+      "name": "Dylan Ambrose",
+      "title": "CPO at Tech Unicorn"
+    },
+    "three": {
+      "text": "The most <highlight>scalable and secure</highlight> infrastructure we have ever built. They are absolute geniuses.",
+      "name": "Gabrielle Winn",
+      "title": "CTO at Global Logistics"
+    }
+  },
+  "Faq": {
+    "q1": "How do you ensure project security and confidentiality?",
+    "a1": "We adhere to the stricter security standards including ISO 27001 compliance. All projects are covered by comprehensive NDAs and bank-level data encryption protocols.",
+    "q2": "What is your typical project timeline for an enterprise solution?",
+    "a2": "Our agile methodology allows us to ship MVPs in as little as 4-6 weeks, while complex enterprise systems are typically delivered within 3-6 months with bi-weekly sprint demos.",
+    "q3": "Do you provide post-launch support and maintenance?",
+    "a3": "Absolutely. We offer 24/7 global support packages with guaranteed response times (SLA) to ensure your critical infrastructure never experiences downtime.",
+    "q4": "What technologies does your team specialize in?",
+    "a4": "We are industry leaders in modern stacks including Next.js, React Native, Rust, Go, and Cloud Native architectures (AWS/GCP/Azure). We choose the best tool for the job."
+  },
+  "Cta": {
+    "title": "Ready to build the future?",
+    "desc": "Let's discuss how we can transform your business with our expertise.",
+    "btn": "Contact Sales"
+  },
+  "Metadata": {
+    "title": "PT Solusi Digital Khatulistiwa - Premier Software House",
+    "description": "Elite digital solutions for enterprise. Mobile apps, web development, and cloud architecture."
+  },
+  "NotFound": {
+    "title": "Page Not Found",
+    "desc": "Sorry, the page you are looking for does not exist or has been moved.",
+    "btn": "Back to Home"
+  },
+  "Footer": {
+    "desc": "PT Solusi Digital Khatulistiwa is a leading software house dedicated to empowering enterprises with cutting-edge digital solutions. We build the future, today.",
+    "menu": {
+      "Services": "Services",
+      "Work": "Work",
+      "About": "About",
+      "Careers": "Careers",
+      "Contact": "Contact"
+    },
+    "legal": {
+      "Terms": "Terms of Service",
+      "Privacy": "Privacy Policy",
+      "SLA": "SLA"
+    },
+    "follow": "Follow us",
+    "copy": "Copyright © {year} PT Solusi Digital Khatulistiwa. All rights reserved."
+  },
+  "PopupWidget": {
+    "title": "How can we help?",
+    "subtitle": "We usually respond in a few hours",
+    "fields": {
+      "name": "Full Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "you@company.com",
+      "message": "Your Message",
+      "messagePlaceholder": "Your Message"
+    },
+    "submit": "Send Message",
+    "success": "Message sent successfully",
+    "error": "Oops, Something went wrong!",
+    "back": "Go back",
+    "powered": "Powered by"
+  }
+}
