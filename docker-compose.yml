@@ -18,7 +18,6 @@ services:
       - solusi-digital-khatulistiwa
 
   sdk-landing-page:
-    image: ghcr.io/hafidzlvm/sdk-landing-page:latest
     build:
       context: .
       dockerfile: ./Dockerfile
