@@ -1,4 +1,22 @@
 services:
+  landing-page-nginx:
+    image: nginx:alpine
+    container_name: landing-page-nginx
+    restart: unless-stopped 
+    environment:
+      - VIRTUAL_HOST=${LANDING_PAGE_DOMAIN}
+      - VIRTUAL_PORT=80
+      - LETSENCRYPT_HOST=${LANDING_PAGE_DOMAIN}
+      - LETSENCRYPT_EMAIL=${LETSENCRYPT_EMAIL}
+      - CORS_ALLOWED_DOMAIN=${CORS_ALLOWED_DOMAIN}
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - sdk-landing-page
+    networks:
+      - solusi-digital-khatulistiwa
+
   sdk-landing-page:
     image: ghcr.io/hafidzlvm/sdk-landing-page:latest
     build:
