@@ -5,7 +5,7 @@ services:
     restart: unless-stopped 
     environment:
       - VIRTUAL_HOST=${LANDING_PAGE_DOMAIN}
-      - VIRTUAL_PORT=80
+      - VIRTUAL_PORT=3000
       - LETSENCRYPT_HOST=${LANDING_PAGE_DOMAIN}
       - LETSENCRYPT_EMAIL=${LETSENCRYPT_EMAIL}
       - CORS_ALLOWED_DOMAIN=${CORS_ALLOWED_DOMAIN}
